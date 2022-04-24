@@ -17,4 +17,4 @@ main = do
   putStrLn "hello world"
 
 {-# START_FILE stack.yaml #-}
-snapshot: lts-18.24
+resolver: ghc-8.10.7
